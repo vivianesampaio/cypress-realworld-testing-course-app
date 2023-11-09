@@ -34,6 +34,7 @@
     "@types/react": "^17.0.39",
     "autoprefixer": "^10.4.2",
     "chai": "^4.3.6",
+    "cypress": "^13.5.0",
     "eslint": "^8.10.0",
     "eslint-config-next": "^12.1.0",
     "eslint-config-prettier": "^8.5.0",
@@ -53,5 +54,15 @@
     "typescript": "^4.6.2",
     "unslugify": "^1.0.2",
     "url-loader": "^4.1.1"
-  }
+  },
+  "name": "cypress-realworld-testing-course-app",
+  "description": "This application is for the [Testing your first application course](https://learn.cypress.io/testing-your-first-application) on [learn.cypress.io](https://learn.cypress.io/).",
+  "version": "1.0.0",
+  "main": "next-sitemap.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "author": "",
+  "license": "ISC"
 }
